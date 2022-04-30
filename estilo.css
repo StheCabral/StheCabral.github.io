@@ -11,6 +11,7 @@
 
 #h2{
     color: #373737;
+    margin-bottom: 10px;
     font-family: 'Orelega One', cursive;
     font-weight: lighter;
 }
@@ -29,9 +30,6 @@
     border-radius: 10px;
 }
 
-.img{
-    border-radius: 10px;
-}
 .container{
     background-color: #DCD0C0;
     height: 100vh;
@@ -110,7 +108,6 @@ width: 700px;
 
 #imgteatro{
     height: 200px;
-    margin-top: 10px;
     margin-bottom: 20px;
     border-radius: 10px;
 
