@@ -23,5 +23,5 @@ SCRUM, um One Page site para um cliente real.
 
 O Desafio foi criar um site pessoal simples, com design livre, para compartilhar quem eu sou com os membres do CITi! 
 
-### <a href="" >Você pode ver o resultado clicando aqui!</a>
+### <a href="https://sthecabral.github.io"><p>Clica aqui pra ver o resultado!</p></a>
 
